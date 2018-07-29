@@ -20,6 +20,13 @@ body {
   max-width: 1200px;
 }
 
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Playfair Display", serif;
+}
+
 nav {
   display: grid;
   margin: 0 auto;
